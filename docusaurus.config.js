@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://username.github.io', // Replace 'username' with your GitHub username
+  url: 'https://hopang0144-wq.github.io', // Replace 'username' with your GitHub username
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/docusaurus-demo/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'username', // Replace 'username' with your GitHub username
-  projectName: 'username.github.io', // Replace 'username.github.io' with your repository name
+  organizationName: 'hopang0144-wq', // Replace 'username' with your GitHub username
+  projectName: 'docusaurus-demo', // Replace 'username.github.io' with your repository name
 
   onBrokenLinks: 'throw',
 
